@@ -23,8 +23,8 @@ API REST para la gestión de tareas desarrollada con Spring Boot. Permite regist
 1. **Clonar el repositorio:**
 
 ```bash
-git clone https://github.com/erwinsot/Test_Tecnova.git
-cd Test_Tecnova
+git clone https://github.com/erwinsot/Task-Management.git
+cd Task-Management
 ```
 ## ▶️ Paso 1: Ejecutar la aplicación localmente
 Opción A: Usando Maven
